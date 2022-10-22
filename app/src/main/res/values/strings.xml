@@ -12,4 +12,11 @@
     <string name="key_0">0</string>
     <string name="key_dot">.</string>
     <string name="key_equals">=</string>
+    <string name="key_sum">+</string>
+    <string name="key_sub">-</string>
+    <string name="key_multi">*</string>
+    <string name="key_del">/</string>
+    <string name="key_clear">C</string>
+
+
 </resources>
